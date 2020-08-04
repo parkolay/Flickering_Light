@@ -1,0 +1,2 @@
+# Flickering_Light
+This is for the DigiSpark w/ 3 WS2812 LEDs, more of less WS2812's could be added or removed (there is more of a limit using the tiny85 because of memory) Code was taken from the the Adafruit NeoPixel example, there were some issues using the DigiSpark but those were fixed and serial connection was removed (DigiSpark does not use the serial terminal like "normal" Arduino projects).
